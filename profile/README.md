@@ -1,4 +1,4 @@
-## thisABLE! 🥥👩‍🦼🧑🏽‍🦼👨🏼‍🦼
+# 🥥 2022 Solution Challenge thisABLE by Coconut! 🥥👩‍🦼🧑🏽‍🦼👨🏼‍🦼
 
 > GDSC Sookmyung Team thisABLE <br />
 > Team Member : Kwon Eunji(heleneunji), Kim Minji(wing-beat), Kim Seohyun(seohyun319), Jang Sungeun(shunnyjang) <br />
