@@ -4,6 +4,11 @@
 > Team Member : Kwon Eunji(heleneunji), Kim Minji(wing-beat), Kim Seohyun(seohyun319), Jang Sungeun(shunnyjang) <br />
 > Duration of development : 2022.01.17-2022.03.31
 
+### 🥥 thisABLE is a service for
+ThisABLE is a service to create a world where everyone can enjoy the same world without alienation.
+Not only does it provide facilities available to people with disabilities on a location-based basis, but it also provides a place for users to voluntarily share information about the location through real-time reviews.
+thisABLE will make all disabled able and change the world.
+
 ### 🥥 Demo Video
 
 ### 🥥 How to use?
@@ -43,7 +48,7 @@
       <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160790118-0660c023-e274-4045-990d-37dc26d7b273.png" width="180px" height = "180px" />
     </td>
     <td>
-     <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160790145-de9aecf3-5b96-4d02-bfb1-ada7304b9da7.png" width="180px" height = "180px" />
+     <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160850702-eded2ae1-1336-4edf-94e3-998621ceede3.png" width="180px" height = "180px" />
    </td>
   </tr>
 </table>
