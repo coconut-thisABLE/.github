@@ -2,14 +2,18 @@
 
 > GDSC Sookmyung Team thisABLE <br />
 > Team Member : Kwon Eunji(heleneunji), Kim Minji(wing-beat), Kim Seohyun(seohyun319), Jang Sungeun(shunnyjang) <br />
-> Duration of development : 2022.01.17-2022.03.31
+> Duration of development : 2022.01.17 - 2022.03.31
 
+![thisABLE_logo](https://user-images.githubusercontent.com/67955977/160860962-f7b61d8d-4e4e-46fa-866f-7b80e083b4c2.png)
 ### 🥥 thisABLE is a service for
-ThisABLE is a service to create a world where everyone can enjoy the same world without alienation.<br />
-Not only does it provide facilities available to people with disabilities on a location-based basis, but it also provides a place for users to voluntarily share information about the location through real-time reviews.<br />
-**thisABLE will make all disabled able and change the world.**
+* ThisABLE is a service to create a world where everyone can enjoy the same world without alienation.<br />
+* Not only does it provide facilities available to people with disabilities on a location-based basis, but it also provides a place for users to voluntarily share information about the location through real-time reviews.<br />
+* **"thisABLE will make all disabled able and change the world."**
 
 ### 🥥 Demo Video
+
+
+### 🥥 [Website](https://coconut-343907.du.r.appspot.com/)
 
 ### 🥥 How to use?
 ![image](https://user-images.githubusercontent.com/49112482/160679345-eb0e2574-8db5-4d04-ac27-73400924c22e.png)
