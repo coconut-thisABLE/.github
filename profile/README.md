@@ -22,9 +22,14 @@
 ### 🥥 Contributors
 <table>
   <tr>
-    <td>Kwon Eunji(heleneunji)</td>
-    <td>Kim Minji(wing-beat)</td>
+    <th colspan="2">FRONTEND</td>   
+    <th>CHATBOT</td>
+    <th>BACKEND</td>
+  </tr>
+  <tr>
+    <td>Kwon Eunji(heleneunji)</td>    
     <td>Kim Seohyun(seohyun319)</td>
+    <td>Kim Minji(wing-beat)</td>
     <td>Jang Sungeun(shunnyjang)</td>
   </tr>
   <tr>
@@ -32,10 +37,10 @@
      <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160790046-4c5bfab0-a901-4072-b7c7-761edb3ddc80.png" width="180px" height = "180px" />
    </td>
     <td>
-      <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160790118-0660c023-e274-4045-990d-37dc26d7b273.png" width="180px" height = "180px" />
+      <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160791147-46079739-843c-4bcc-aed9-ea8419c157a3.png" width="180px" height = "180px" />    
    </td>
     <td>
-      <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160791147-46079739-843c-4bcc-aed9-ea8419c157a3.png" width="180px" height = "180px" />
+      <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160790118-0660c023-e274-4045-990d-37dc26d7b273.png" width="180px" height = "180px" />
     </td>
     <td>
      <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160790145-de9aecf3-5b96-4d02-bfb1-ada7304b9da7.png" width="180px" height = "180px" />
