@@ -17,3 +17,27 @@
 ![image](https://user-images.githubusercontent.com/49112482/160679553-513ccb08-bd5d-4567-ab35-dd51f01c6b8b.png)
 
 ### 🥥 Used technology
+![image](https://user-images.githubusercontent.com/49112482/160789686-569a05a2-5790-423c-bb5f-bd8be5a808cb.png)
+
+### 🥥 Contributors
+<table>
+  <tr>
+    <td>Kwon Eunji(heleneunji)</td>
+    <td>Kim Minji(wing-beat)</td>
+    <td>Kim Seohyun(seohyun319)</td>
+    <td>Jang Sungeun(shunnyjang)</td>
+  </tr>
+  <tr>
+    <td>
+      <img style="border: 0px solid black !important; border-radius:50%;" src="https://user-images.githubusercontent.com/49112482/160790118-0660c023-e274-4045-990d-37dc26d7b273.png" width="180px" height = "180px" />
+   </td>
+    <td>
+    </td>
+    <td>
+     <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160790145-de9aecf3-5b96-4d02-bfb1-ada7304b9da7.png" width="180px" height = "180px" />
+   </td>
+    <td>
+     <img style="border: 0px solid black !important; border-radius:50%; " src="https://user-images.githubusercontent.com/49112482/160790046-4c5bfab0-a901-4072-b7c7-761edb3ddc80.png" width="180px" height = "180px" />
+   </td>
+  </tr>
+</table>
