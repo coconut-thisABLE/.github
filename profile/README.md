@@ -5,8 +5,8 @@
 > Duration of development : 2022.01.17-2022.03.31
 
 ### 🥥 thisABLE is a service for
-ThisABLE is a service to create a world where everyone can enjoy the same world without alienation.
-Not only does it provide facilities available to people with disabilities on a location-based basis, but it also provides a place for users to voluntarily share information about the location through real-time reviews.
+ThisABLE is a service to create a world where everyone can enjoy the same world without alienation.<br />
+Not only does it provide facilities available to people with disabilities on a location-based basis, but it also provides a place for users to voluntarily share information about the location through real-time reviews.<br />
 thisABLE will make all disabled able and change the world.
 
 ### 🥥 Demo Video
