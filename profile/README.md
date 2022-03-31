@@ -31,7 +31,7 @@ npm start
 ### 🥥 Also you can download apk file from [Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing) too!
 [thisABLE Apk Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing)
 
-### 🥥 And you can read thisABLE API Document!
+### 🥥 You can read thisABLE API Document here!
 - https://api.thisable.xyz/api-docs/
 
 ### 🥥 How to use?
