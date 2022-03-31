@@ -17,13 +17,26 @@ We live with a lot of technological benefits in urban environments built on the 
 ### 🥥 Demo Video
 [![thumbnail](https://user-images.githubusercontent.com/49112482/160967958-ff06b967-4004-46ce-940f-2360381d8305.png)](https://youtu.be/_5tZRegFqG8)
 
-### 🥥 Website
+### 🥥 If you want to download thisABLE..
+```bash
+git clone https://github.com/coconut-thisABLE/thisABLE_front.git
+cd thisABLE_front/thisable
+npm install
+npm start
+```
+
+### 🥥 Anyway, we recommend visiting the thisABLE [Website](https://coconut-343907.du.r.appspot.com/) and using it! 😀
 [thisABLE Website](https://coconut-343907.du.r.appspot.com/)
 
-### 🥥 Apk file
-You can download apk file from 
+### 🥥 Also you can download apk file from 
 [thisABLE Apk Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing)
 .
+
+
+Anyway, we recommend visiting the thisABLE [Website](https://coconut-343907.du.r.appspot.com/) and using it! 😀
+
+### 🥥 And you can read thisABLE API Document!
+- https://api.thisable.xyz/api-docs/
 
 ### 🥥 How to use?
 ![image](https://user-images.githubusercontent.com/49112482/160679345-eb0e2574-8db5-4d04-ac27-73400924c22e.png)
@@ -66,16 +79,3 @@ You can download apk file from
    </td>
   </tr>
 </table>
-
-### 🥥 If you want to download thisABLE..
-```bash
-git clone https://github.com/coconut-thisABLE/thisABLE_front.git
-cd thisABLE_front/thisable
-npm install
-npm start
-```
-
-Anyway, we recommend visiting the thisABLE [Website](https://coconut-343907.du.r.appspot.com/) and using it! 😀
-
-### 🥥 And you can read thisABLE API Document!
-- https://api.thisable.xyz/api-docs/
