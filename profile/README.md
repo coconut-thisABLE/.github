@@ -26,10 +26,10 @@ npm start
 ```
 
 ### 🥥 Anyway, we recommend visiting the thisABLE [Website](https://coconut-343907.du.r.appspot.com/) and using it! 😀
-[thisABLE Website](https://coconut-343907.du.r.appspot.com/)
+- [thisABLE Website](https://coconut-343907.du.r.appspot.com/)
 
 ### 🥥 Also you can download apk file from [Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing) too!
-[thisABLE Apk Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing)
+- [thisABLE Apk Google Drive](https://drive.google.com/file/d/1QH_kprV0aGLTdOSDjx8_zG4pfMktKyDQ/view?usp=sharing)
 
 ### 🥥 You can read thisABLE API Document here!
 - https://api.thisable.xyz/api-docs/
