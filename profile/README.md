@@ -11,7 +11,7 @@
 * **"thisABLE will make all disabled able and change the world."**
 
 ### 🥥 Goal
-![image](https://user-images.githubusercontent.com/49112482/161008618-a8cabe7e-96e3-44b4-8e91-f551dfcc270c.png)
+![image](https://user-images.githubusercontent.com/49112482/161009174-c7d2be92-e522-4a01-ada2-8640c79562bf.png)
 We live with a lot of technological benefits in urban environments built on the continual advancement of technology and the takeoff of civilization that mankind has built up so far. However, these benefits that are natural to someone are also pie in the sky for someone. For a better and sustainable society, everyone should enjoy these benefits without discrimination. Anyone can be disabled who are alienated from benefits. We planned thisABLE for a world where everyone can receive benefits fairly without alienation. We intend to contribute to addressing inequality (UN SDGs No. 10) and further contributing to becoming a sustainable society (UN SDGs No. 11) with the participation of citizens through thisABLE.
 
 ### 🥥 Demo Video
