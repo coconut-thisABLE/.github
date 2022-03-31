@@ -11,7 +11,7 @@
 * **"thisABLE will make all disabled able and change the world."**
 
 ### 🥥 Goal
-![image](https://user-images.githubusercontent.com/49112482/161006917-5ba8e4c7-d645-43f2-ad71-a646f7d36166.png)
+![image](https://user-images.githubusercontent.com/49112482/161008618-a8cabe7e-96e3-44b4-8e91-f551dfcc270c.png)
 Currently, in Korea, people with disabilities are demanding the installation of elevators in subway stations and free access to subway platforms without interference using wheelchairs to guarantee their right to move. The overall infrastructure of society had no consideration for the disabled and the vulnerable in transportation. In addition, we realized that the inconvenience was intensified due to the lack of information on the facilities needed for those suffering from inconvenience. We intend to contribute to addressing inequality (UN SDGs No. 10) and further contributing to becoming a sustainable society (UN SDGs No. 11) with the participation of citizens through thisABLE.<br />
 Currently, in Korea, people with disabilities are demanding the installation of elevators in subway stations and free access to subway platforms without interference using wheelchairs to guarantee their right to move. The overall infrastructure of society had no consideration for the disabled and the vulnerable in transportation. In addition, we realized that the inconvenience was intensified due to the lack of information on the facilities needed for those suffering from inconvenience. We intend to contribute to addressing inequality (UN SDGs No. 10) and further contributing to becoming a sustainable society (UN SDGs No. 11) with the participation of citizens through thisABLE.
 
